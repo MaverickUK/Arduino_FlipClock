@@ -7,7 +7,7 @@ The clock in our dinning room has a really nice flip date feature. This means it
 
 This solution uses an Arduino Pro Mini as a low powered pacemaker, which sends a signal to a relay every 12 hours. An external RTC module to used to ensure accurate time is kept.
 
-!(Circuit)[https://64.media.tumblr.com/ee987bf2ba70cee2b889b7019c345558/2d33f5e3fe1e74f2-ca/s540x810/d689aae4c26dbf4dc3ee5608076acbf4efde1a66.jpg]
+![Circuit](https://64.media.tumblr.com/ee987bf2ba70cee2b889b7019c345558/2d33f5e3fe1e74f2-ca/s540x810/d689aae4c26dbf4dc3ee5608076acbf4efde1a66.jpg)
 
 ## Parts list
 - **Arduino Pro Mini 3.3v:** Available direct or through eBay clones
